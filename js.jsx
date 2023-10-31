@@ -2,7 +2,7 @@ import React from 'react'
 
 function js() {
   return (
-    <div>js</div>
+    <div>Jsx</div>
   )
 }
 
